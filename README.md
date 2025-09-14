@@ -45,6 +45,8 @@ Clone the repository and install dependencies:
 ```bash
 git clone https://github.com/nihalnayattil/insta-mutuals.git
 cd insta-mutuals
+python3 -m venv venv
+source venv/bin/activate
 pip install -r requirements.txt
 ````
 
